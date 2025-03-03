@@ -1,0 +1,21 @@
+Running commands:
+
+main.py:
+
+cd location
+pip install -r requirements.txt
+python main.py
+
+
+
+streamlit_app.py
+
+streamlit run streamlit_app.py
+
+
+
+As we are getting trouble for loading in the webpage in the collab Notebook, We run the streamlit_app.py file in VS code and it runned without errors and gave the accurate output
+
+
+
+
